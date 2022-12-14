@@ -1,0 +1,1 @@
+{vel:1650;frec:48;vol:1902;t:58;tiempo:3h}
